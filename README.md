@@ -1,5 +1,5 @@
 
-# Ex.No:12 Design an application that draws basic graphical primitives on the screen.
+# Ex.No:07 Design an application that draws basic graphical primitives on the screen.
 
 
 ## AIM
@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ## PROGRAM
 ```
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by: Sathish R  
-Registeration Number : 212222230138
+Developed by: DAKSHINA MOORTHY N D
+Registeration Number : 212224230049
 ```
 ## In acitivity_main.xml
 ```xml
@@ -93,7 +93,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![image](https://github.com/SudharsanamRK/graphicsinandroid/assets/115523484/6cd88673-28aa-48f3-8998-ee34c49b7f62)
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4e086c97-1ca4-4073-87bf-c8d6ba19e5d8" />
+
 
 
 ## RESULT
